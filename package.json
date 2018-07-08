@@ -6,7 +6,8 @@
   "dependencies": {
     "electron": "^1.7.5",
     "electron-log": "^2.2.7",
-    "jspm": "^0.16.53"
+    "jspm": "^0.16.53",
+    "lodash": "^4.17.10"
   },
   "devDependencies": {
     "@types/awesomplete": "^1.1.5",
